@@ -2,6 +2,8 @@
 
 MailGuard is a spam email detection system built using machine learning models to classify emails as either spam or ham (legitimate). It leverages natural language processing (NLP) techniques, such as TF-IDF vectorization, and a variety of machine learning models, including Logistic Regression, Random Forest, and XGBoost. The project aims to provide an efficient and scalable solution for automatically classifying email messages.
 
+---
+
 ## **Project Overview**
 MailGuard is a machine learning-based spam email detection system designed to automatically classify emails as spam or legitimate (ham). It utilizes Natural Language Processing (NLP) techniques for text processing and several machine learning models such as Logistic Regression, Random Forest, and XGBoost to classify email messages accurately. This project can be used to filter out unwanted emails, helping to improve productivity and email security.
 
@@ -46,6 +48,8 @@ The performance of the models is evaluated using:
 * Jupyter Notebook or IDE (like VS code or PyCharm):  For developing and testing your models interactively.
 * Google Colab: If you're working on a cloud-based environment for easy access to resources.
 
+---
+
 ## **Model Accuracy**
 The project evaluates multiple machine learning models to classify emails as spam or ham. After training and testing each model, the following accuracies were obtained on the test set (unseen data):
 
@@ -61,6 +65,8 @@ The project evaluates multiple machine learning models to classify emails as spa
   * Training Accuracy: 99.95%
   * Testing Accuracy: 98.30%
 
+---
+
 ## **Installation Instructions**
 
 1. Clone the repository:
@@ -74,7 +80,9 @@ The project evaluates multiple machine learning models to classify emails as spa
    ```bash
    python main.py
 
-NOTE: If you're using Google Colab, simply just upload the CSV file and the run the cells.
+**NOTE: If you're using Google Colab, simply just upload the CSV file and the run the cells.**
+
+---
 
 ## License
 
