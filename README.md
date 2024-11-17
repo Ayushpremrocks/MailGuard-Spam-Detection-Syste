@@ -77,3 +77,7 @@ The project evaluates multiple machine learning models to classify emails as spa
    python main.py
 
 NOTE: If you're using Google Colab, simply just upload the CSV file and the run the cells.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
